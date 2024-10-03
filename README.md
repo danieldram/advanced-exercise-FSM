@@ -19,7 +19,7 @@ Based on the notation from the definition, our modulo three FSM would be configu
 - δ(S0,0) = S0; δ(S0,1) = S1; δ(S1,0) = S2; δ(S1,1) = S0; δ(S2,0) = S1; δ(S2,1) = S2
 
 
-#Installation 
+# Installation 
 Clone this repo
 Ensure you have Node / NPM installed
 Ensure you are within the root of the directory 
